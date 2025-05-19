@@ -29,6 +29,7 @@ Create a directory named "my-folder"
 mkdir %userprofile%\Desktop\MyLab
 ```
 ![image](https://github.com/user-attachments/assets/1923a03e-59af-461e-9d30-345db2b4df47)
+
 Change to the "MyLab" directory and create an empty text file named "MyFile.txt" inside it.
 
 
